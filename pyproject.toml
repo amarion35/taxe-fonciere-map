@@ -1,0 +1,17 @@
+[project]
+name = "taxe-fonciere-map"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "folium>=0.19.3",
+    "geopandas>=1.0.1",
+    "ipykernel>=6.29.5",
+    "jenkspy>=0.4.1",
+    "nbformat>=5.10.4",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "requests>=2.32.3",
+    "topojson>=1.9",
+]
